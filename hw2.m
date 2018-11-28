@@ -1,7 +1,7 @@
 clear, clc;
 quality = 10;
-inputName = 'animal.jpg';
-outputName = 'outputAnimal.jpg';
+inputName = '¶¯Îï¿¨Í¨Í¼Æ¬.jpg';
+outputName = 'outputCartoon.jpg';
 CELL_SIZE = 8;
 
 global dc_luminance_nrcodes;
